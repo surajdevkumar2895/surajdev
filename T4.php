@@ -7,4 +7,6 @@ $c = $a*$b;
 
 echo $c;
 
+
+echo "Hello suraj test stash mark"
 ?>
